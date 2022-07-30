@@ -1,2 +1,3 @@
-# Python-LED-Pin-Benchmark
-PROTOTYPE BENCHMARK v0.1.0
+# Python LED Pin Benchmark
+LED BENCHMARK v1.0
+By Abdon Morales
